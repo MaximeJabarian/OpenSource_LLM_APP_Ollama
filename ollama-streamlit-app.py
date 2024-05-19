@@ -30,7 +30,7 @@ def stream_chat(model, messages):
 
 # Streamlit app setup
 def main():
-    st.title("Chat with AI Models")
+    st.title("Chat with LLMs Models")
     logging.info("App started")
 
     # Sidebar for model selection
