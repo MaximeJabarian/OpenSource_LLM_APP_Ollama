@@ -22,7 +22,7 @@ This repository contains the code for a chat application that leverages Streamli
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/chat-with-ollama.git
+   git clone https://github.com/MaximeJabarian/OpenSource_LLM_APP_Ollama.git
    cd chat-with-ollama
    ```
 
