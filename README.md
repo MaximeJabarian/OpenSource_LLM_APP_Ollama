@@ -52,7 +52,7 @@ This repository contains the code for a chat application that leverages Streamli
 5. **Run the application:**
 
    ```bash
-   streamlit run app.py
+   streamlit run ollama-streamlit-app.py
    ```
 
 ## Usage
