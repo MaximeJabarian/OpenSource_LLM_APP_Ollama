@@ -1,4 +1,5 @@
 # Chat with AI Models Using Streamlit and Ollama
+![Alt text for the image](path/to/chat-interface-app.png)
 
 This repository contains the code for a chat application that leverages Streamlit and the Ollama language model (LLM) to interact with users in real-time. This application allows users to select different AI models and receive instant responses to their queries.
 
