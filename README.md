@@ -7,7 +7,7 @@ This repository contains the code for a chat application that leverages Streamli
 
 - Real-time chat interface using Streamlit.
 - Integration with Ollama LLM for generating responses.
-- Model selection from the sidebar (supports Llama3, Phi3, and Mistral).
+- Model selection from the sidebar (supports Llama3, Phi3, and Mistral7b).
 - Logging for debugging and monitoring.
 
 ## Installation
