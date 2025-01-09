@@ -19,7 +19,7 @@ This repository contains the code for a chat application that leverages Streamli
 - Ollama
 
 Running the app on macOS requires:
-- llama-index-lms-ollama
+- llama-index-llms-ollama
 
 ### Setup
 
