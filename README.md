@@ -14,7 +14,7 @@ This repository contains the code for a chat application that leverages Streamli
 
 ### Prerequisites
 
-- Python 3.7 or later
+- Python >=3.7
 - Streamlit
 - Ollama
 
