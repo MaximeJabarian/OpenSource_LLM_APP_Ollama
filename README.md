@@ -18,7 +18,7 @@ This repository contains the code for a chat application that leverages Streamli
 - Streamlit
 - Ollama
 
-Running the app on macOS requires:
+If running the app on macOS requires:
 - llama-index-llms-ollama
 
 ### Setup
